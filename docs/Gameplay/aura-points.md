@@ -71,6 +71,6 @@ Also... Higher levels may unlock **exclusive content/gifts**.
 You can’t lose aura points.  
 Every lesson learned stays with you — even if you fail a level or restart a challenge.
 
-However, replaying already completed levels won’t grant additional points (no farming, sorry 🧘).
+However, replaying already completed levels won’t grant additional points (no farming, sorry 🧘). 
 
 
