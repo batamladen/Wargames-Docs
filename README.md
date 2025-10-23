@@ -1,41 +1,13 @@
-# Website
+## The Official WBM Docs website.
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Welcome to the **Wargames Documentation Repository**! This repository hosts all the documentation, guides, and resources for the Wargames platform, including challenge descriptions, setup instructions, and tutorials for players and developers.
 
-## Installation
+It is made so contributors understand how the platform runs under the hood.
 
-```bash
-yarn
-```
 
-## Local Development
+### Contact
+For support or questions, reach out via the [mail](contact@batamladen.com)
 
-```bash
-yarn start
-```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```bash
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+### License
+This project is licensed under the MIT License. See the LICENSE for mroe details
