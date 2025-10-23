@@ -8,6 +8,3 @@ It is made so contributors understand how the platform runs under the hood.
 ### Contact
 For support or questions, reach out via email at [contact@batamladen.com](mailto:contact@batamladen.com).
 
-
-### License
-This project is licensed under the MIT License. See the LICENSE for mroe details
