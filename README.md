@@ -6,7 +6,7 @@ It is made so contributors understand how the platform runs under the hood.
 
 
 ### Contact
-For support or questions, reach out via the [mail](mailto:contact@batamladen.com)
+For support or questions, reach out via email at [mail](mailto:contact@batamladen.com).
 
 
 ### License
