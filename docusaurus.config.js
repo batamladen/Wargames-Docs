@@ -4,7 +4,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Wargames BataMladen',
-  tagline: 'Learn. Play. Conquer.',
+  tagline: 'Play. Learn. Conquer.',
   favicon: 'img/wargames.ico',
 
   future: {
