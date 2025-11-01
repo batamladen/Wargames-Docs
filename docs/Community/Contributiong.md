@@ -35,7 +35,7 @@ Contributions can also be made to the platform’s wargame challenges.
 
 #### How to Contribute:
 
-1. Contact the platform maintainer directly to discuss your scenario idea. Links to socials can be found in, you will never beleave it - [Socials](link)
+1. Contact the platform maintainer directly to discuss your scenario idea. Links to socials can be found in, you will never beleave it - [Socials](./Socials.md)
 2. Use the existing **challenge templates** to create your level. Templates are available in the documentation under:  
    `backend/Levels Dockerimage.md`
 3. Once the scenario and level design are ready, the challenge can be integrated as a new Docker-based level.
