@@ -17,8 +17,8 @@ const config = {
   deploymentBranch: 'gh-pages',
 
 
-  organizationName: 'BataMladen', 
-  projectName: 'Docs-WBM', 
+  organizationName: 'batamladen', 
+  projectName: 'Wargames-Docs', 
 
   onBrokenLinks: 'throw',
 
