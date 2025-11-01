@@ -19,7 +19,7 @@ const config = {
 
   organizationName: 'batamladen', 
   projectName: 'Wargames-Docs', 
-
+  trailingSlash: false,
   onBrokenLinks: 'throw',
 
   i18n: {
