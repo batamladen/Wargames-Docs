@@ -100,14 +100,14 @@ ssh player@wargames.batamladen.com -p 2220
           <div className={styles.buttons}>
             <Link
               className="button button--secondary"
-              to="/docs/challenges/intro">
+              to="https://wargames.batamladen.com/challenges.html">
               View All Challenges
             </Link>
             <Link
               className="button button--outline"
-              to="/docs/guides/ssh-basics"
+              to="/docs/intro"
               style={{marginLeft: '1rem'}}>
-              SSH Guide
+              Documentation
             </Link>
           </div>
         </div>
@@ -138,10 +138,10 @@ function InfoSection() {
               <h3 className={styles.sectionTitle}><i className="fas fa-question-circle" style={{marginRight: '0.5rem'}}></i> Need Help?</h3>
               <p>Stuck on a challenge? Check out our resources:</p>
               <ul>
-                <li><Link to="/docs/faq">Frequently Asked Questions</Link></li>
-                <li><Link to="/docs/writeups">Community Write-ups</Link></li>
-                <li><Link to="/docs/contact">Contact Support</Link></li>
-                <li><Link to="https://discord.gg/wargames">Join our Discord</Link></li>
+                <li><a href="https://wargames.batamladen.com/faq.html" target="_blank" rel="noopener noreferrer">Frequently Asked Questions</a></li>
+                <li><a href="https://wargames.batamladen.com/writeups.html" target="_blank" rel="noopener noreferrer">Community Write-ups</a></li>
+                <li><a href="https://wargames.batamladen.com/contact.html" target="_blank" rel="noopener noreferrer">Contact Support</a></li>
+                <li><a href="https://discord.gg/wargames" target="_blank" rel="noopener noreferrer">Join our Discord</a></li>
               </ul>
             </div>
           </div>
