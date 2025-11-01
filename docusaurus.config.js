@@ -18,7 +18,7 @@ const config = {
 
 
   organizationName: 'BataMladen', 
-  projectName: 'Docs WBM', 
+  projectName: 'Docs-WBM', 
 
   onBrokenLinks: 'throw',
 
