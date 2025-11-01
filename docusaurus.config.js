@@ -11,11 +11,14 @@ const config = {
     v4: true,
   },
 
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://docs.wargames.batamladen.com',
   baseUrl: '/',
 
-  organizationName: 'facebook', 
-  projectName: 'docusaurus', 
+  deploymentBranch: 'gh-pages',
+
+
+  organizationName: 'BataMladen', 
+  projectName: 'Docs WBM', 
 
   onBrokenLinks: 'throw',
 
