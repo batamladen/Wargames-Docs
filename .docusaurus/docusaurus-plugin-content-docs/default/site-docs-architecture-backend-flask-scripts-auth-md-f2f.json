@@ -1,0 +1,24 @@
+{
+  "id": "Architecture/Backend/Flask Scripts/auth",
+  "title": "auth",
+  "description": "The login and registrations system are planned to change. This current solution was used because the goal was just to make it work. Now, we improve.",
+  "source": "@site/docs/Architecture/Backend/Flask Scripts/auth.md",
+  "sourceDirName": "Architecture/Backend/Flask Scripts",
+  "slug": "/Architecture/Backend/Flask Scripts/auth",
+  "permalink": "/docs/Architecture/Backend/Flask Scripts/auth",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Architecture/Backend/Flask Scripts/auth.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "api",
+    "permalink": "/docs/Architecture/Backend/Flask Scripts/api"
+  },
+  "next": {
+    "title": "check-password",
+    "permalink": "/docs/Architecture/Backend/Flask Scripts/check-password"
+  }
+}

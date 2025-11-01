@@ -1,0 +1,28 @@
+{
+  "id": "Gameplay/aura-points",
+  "title": "Aura Points",
+  "description": "What Are Aura Points?",
+  "source": "@site/docs/Gameplay/aura-points.md",
+  "sourceDirName": "Gameplay",
+  "slug": "/Gameplay/aura-points",
+  "permalink": "/docs/Gameplay/aura-points",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Gameplay/aura-points.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Aura Points"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting To The Next Level",
+    "permalink": "/docs/Gameplay/next-level"
+  },
+  "next": {
+    "title": "Certification",
+    "permalink": "/docs/Gameplay/certificate"
+  }
+}

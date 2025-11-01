@@ -1,0 +1,24 @@
+{
+  "id": "Architecture/Backend/Flask Scripts/flag",
+  "title": "flag",
+  "description": "flag.py",
+  "source": "@site/docs/Architecture/Backend/Flask Scripts/flag.md",
+  "sourceDirName": "Architecture/Backend/Flask Scripts",
+  "slug": "/Architecture/Backend/Flask Scripts/flag",
+  "permalink": "/docs/Architecture/Backend/Flask Scripts/flag",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Architecture/Backend/Flask Scripts/flag.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "check-password",
+    "permalink": "/docs/Architecture/Backend/Flask Scripts/check-password"
+  },
+  "next": {
+    "title": "server",
+    "permalink": "/docs/Architecture/Backend/Flask Scripts/server"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Architecture/Backend/Flask Scripts/academy",
+              "path": "/docs/Architecture/Backend/Flask Scripts/academy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Architecture/Backend/Flask Scripts/api",
+              "path": "/docs/Architecture/Backend/Flask Scripts/api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Architecture/Backend/Flask Scripts/auth",
+              "path": "/docs/Architecture/Backend/Flask Scripts/auth",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Architecture/Backend/Flask Scripts/check-password",
+              "path": "/docs/Architecture/Backend/Flask Scripts/check-password",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Architecture/Backend/Flask Scripts/flag",
+              "path": "/docs/Architecture/Backend/Flask Scripts/flag",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Architecture/Backend/Flask Scripts/server",
+              "path": "/docs/Architecture/Backend/Flask Scripts/server",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Architecture/Backend/nginx",
+              "path": "/docs/Architecture/Backend/nginx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Architecture/Frontend",
+              "path": "/docs/Architecture/Frontend",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Architecture/Hosting",
+              "path": "/docs/Architecture/Hosting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Community/Contributiong",
+              "path": "/docs/Community/Contributiong",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Community/Socials",
+              "path": "/docs/Community/Socials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Gameplay/aura-points",
+              "path": "/docs/Gameplay/aura-points",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Gameplay/certificate",
+              "path": "/docs/Gameplay/certificate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Gameplay/getting-started",
+              "path": "/docs/Gameplay/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Gameplay/next-level",
+              "path": "/docs/Gameplay/next-level",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Platform/temp",
+              "path": "/docs/Platform/temp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/gameplay",
+              "path": "/docs/category/gameplay",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/architecture",
+              "path": "/docs/category/architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/community",
+              "path": "/docs/category/community",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

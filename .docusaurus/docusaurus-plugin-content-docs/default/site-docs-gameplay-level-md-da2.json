@@ -1,0 +1,24 @@
+{
+  "id": "Gameplay/level",
+  "title": "level",
+  "description": "",
+  "source": "@site/docs/Gameplay/level.md",
+  "sourceDirName": "Gameplay",
+  "slug": "/Gameplay/level",
+  "permalink": "/docs/Gameplay/level",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Gameplay/level.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aura-points",
+    "permalink": "/docs/Gameplay/aura-points"
+  },
+  "next": {
+    "title": "temp",
+    "permalink": "/docs/Platform/temp"
+  }
+}

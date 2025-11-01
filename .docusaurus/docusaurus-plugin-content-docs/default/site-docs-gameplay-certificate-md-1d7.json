@@ -1,0 +1,28 @@
+{
+  "id": "Gameplay/certificate",
+  "title": "Certification",
+  "description": "The Challenge Certificate",
+  "source": "@site/docs/Gameplay/certificate.md",
+  "sourceDirName": "Gameplay",
+  "slug": "/Gameplay/certificate",
+  "permalink": "/docs/Gameplay/certificate",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Gameplay/certificate.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Certification"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Aura Points",
+    "permalink": "/docs/Gameplay/aura-points"
+  },
+  "next": {
+    "title": "Architecture",
+    "permalink": "/docs/category/architecture"
+  }
+}
