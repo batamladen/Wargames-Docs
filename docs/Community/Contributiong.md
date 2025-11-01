@@ -51,7 +51,7 @@ Contributions can also be made to the platform’s wargame challenges.
 <br/>
 
 ## Connect
-Connect with us at any of the following links in [Socials](link) (We preffer connecting via mail or directly messaging the platform owner via [linkedin](https://www.linkedin.com/in/mladen-nikolov-1b4720200/), hence it adds a tone of privacy to our disscussions.)
+Connect with us at any of the following links in [Socials](./Socials.md) (We preffer connecting via mail or directly messaging the platform owner via [linkedin](https://www.linkedin.com/in/mladen-nikolov-1b4720200/), hence it adds a tone of privacy to our disscussions.)
 
 
 > Contributing is a great way to **share knowledge, practice cybersecurity skills, earn rewards, and be part of the WBM community**.
